@@ -12,5 +12,6 @@ public class Main {
 
         System.out.println("Hello "+UserName+" welcome to the new you!");
         System.out.println("Hello Joe, my name is Sam.");
+        System.out.println("Hello Joe, my name is Fabrice.");
     }
 }
